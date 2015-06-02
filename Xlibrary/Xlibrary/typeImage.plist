@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>bread</string>
+	<string>lunch</string>
+	<string>dinner</string>
+	<string>drink</string>
+	<string>candy</string>
+	<string>traffic</string>
+	<string>grocery</string>
+	<string>entertainment</string>
+	<string>social</string>
+	<string>cloth</string>
+	<string>shopping</string>
+	<string>rent</string>
+	<string>gift</string>
+	<string>hospital</string>
+	<string>stock</string>
+	<string>red envelope</string>
+	<string>transfer</string>
+	<string>other</string>
+	<string>phone</string>
+	<string>visa</string>
+	<string>salary</string>
+	<string>bonus</string>
+	<string>allowances</string>
+	<string>icon_cellphone</string>
+	<string>icon_book</string>
+	<string>icon_clean</string>
+	<string>icon_camera</string>
+	<string>icon_coffee</string>
+	<string>icon_3c</string>
+	<string>icon_comestic</string>
+	<string>icon_fix</string>
+	<string>icon_fruit</string>
+	<string>icon_meat</string>
+	<string>icon_mic</string>
+	<string>icon_movie</string>
+	<string>icon_pant</string>
+	<string>icon_plane</string>
+	<string>icon_veg</string>
+	<string>icon_video</string>
+	<string>transportation</string>
+	<string>annual bonus bonus</string>
+</array>
+</plist>
